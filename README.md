@@ -79,8 +79,12 @@ Navigate to:
 `http://127.0.0.1:5000/`
 
 ## 📸 Demo Screenshot
-
-> *(You can add a screenshot of the web app here)*
+Image-1
+![Loan Result Screenshot](images/image-1.png)
+Image-2
+![Loan Result Screenshot](images/image-2.png)
+Image-3
+![Loan Result Screenshot](images/image-3.png)
 
 ## 🔄 Future Improvements
 
