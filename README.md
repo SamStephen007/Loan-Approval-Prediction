@@ -100,17 +100,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 This project is open source and free to use under the [MIT License](LICENSE).
 
----
-
-````
-
----
-
-### ✅ Next Steps:
-1. Save this as a file named `README.md` in your project folder.
-2. Then commit and push:
-```bash
-git add README.md
-git commit -m "Added project README"
-git push origin main
-````
