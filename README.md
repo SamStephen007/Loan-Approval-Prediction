@@ -79,6 +79,8 @@ Navigate to:
 `http://127.0.0.1:5000/`
 
 ## 📸 Demo Screenshot
+Bar chart
+![Loan Result Screenshot](images/feature_importance.png)
 Image-1
 ![Loan Result Screenshot](images/image-1.png)
 Image-2
