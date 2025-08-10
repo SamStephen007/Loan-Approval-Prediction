@@ -5,7 +5,6 @@ This Machine Learning project predict the possibilities of loan approved or decl
 
 
 
-```markdown
 # 🏦 Loan Approval Prediction
 
 This project is a machine learning-based web application that predicts whether a loan should be approved or not based on applicant details like income, credit history, employment status, and more.
